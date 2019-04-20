@@ -1,0 +1,20 @@
+﻿http://localhost:50726/odata/Car
+
+http://localhost:50726/odata/Car(3)
+
+http://localhost:50726/odata/Car/$count
+
+http://localhost:50726/odata/Car?$select=name
+
+http://localhost:50726/odata/Car?$filter=contains(Name, 'a')&$select=Name&$orderby=Name asc
+
+http://localhost:50726/odata/Car?$filter=Name eq 'Persona 4 Golden'
+
+http://localhost:50726/odata/Car?$filter=Year gt 2017
+
+http://localhost:50726/odata/Car?$filter=Year eq 'Fusion'
+
+http://localhost:50726/odata/Car(2)?$select=manufacturer
+
+
+

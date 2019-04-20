@@ -1,0 +1,13 @@
+C:\Users\DJClark\Desktop\MyOdataApi\MyOdataApi\MyOdataApi\bin\Debug\netcoreapp2.2\MyOdataApi.deps.json
+C:\Users\DJClark\Desktop\MyOdataApi\MyOdataApi\MyOdataApi\bin\Debug\netcoreapp2.2\MyOdataApi.runtimeconfig.json
+C:\Users\DJClark\Desktop\MyOdataApi\MyOdataApi\MyOdataApi\bin\Debug\netcoreapp2.2\MyOdataApi.runtimeconfig.dev.json
+C:\Users\DJClark\Desktop\MyOdataApi\MyOdataApi\MyOdataApi\bin\Debug\netcoreapp2.2\MyOdataApi.dll
+C:\Users\DJClark\Desktop\MyOdataApi\MyOdataApi\MyOdataApi\obj\Debug\netcoreapp2.2\MyOdataApi.csproj.CoreCompileInputs.cache
+C:\Users\DJClark\Desktop\MyOdataApi\MyOdataApi\MyOdataApi\obj\Debug\netcoreapp2.2\MyOdataApi.RazorAssemblyInfo.cache
+C:\Users\DJClark\Desktop\MyOdataApi\MyOdataApi\MyOdataApi\obj\Debug\netcoreapp2.2\MyOdataApi.RazorAssemblyInfo.cs
+C:\Users\DJClark\Desktop\MyOdataApi\MyOdataApi\MyOdataApi\obj\Debug\netcoreapp2.2\MyOdataApi.AssemblyInfoInputs.cache
+C:\Users\DJClark\Desktop\MyOdataApi\MyOdataApi\MyOdataApi\obj\Debug\netcoreapp2.2\MyOdataApi.AssemblyInfo.cs
+C:\Users\DJClark\Desktop\MyOdataApi\MyOdataApi\MyOdataApi\obj\Debug\netcoreapp2.2\MyOdataApi.RazorTargetAssemblyInfo.cache
+C:\Users\DJClark\Desktop\MyOdataApi\MyOdataApi\MyOdataApi\bin\Debug\netcoreapp2.2\MyOdataApi.pdb
+C:\Users\DJClark\Desktop\MyOdataApi\MyOdataApi\MyOdataApi\obj\Debug\netcoreapp2.2\MyOdataApi.dll
+C:\Users\DJClark\Desktop\MyOdataApi\MyOdataApi\MyOdataApi\obj\Debug\netcoreapp2.2\MyOdataApi.pdb
